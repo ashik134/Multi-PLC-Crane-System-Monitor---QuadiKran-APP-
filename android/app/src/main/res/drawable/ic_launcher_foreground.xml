@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Foreground for adaptive icon (108x108dp, safe zone inner 72x72 centred at 54,54) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- ── Chip body (white rounded-rect) ── -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,30 L70,30 Q78,30 78,38 L78,70 Q78,78 70,78 L38,78 Q30,78 30,70 L30,38 Q30,30 38,30 Z" />
+
+    <!-- ── Top pins ── -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M40,22 L45,22 L45,30 L40,30 Z
+                          M52,22 L57,22 L57,30 L52,30 Z
+                          M63,22 L68,22 L68,30 L63,30 Z" />
+
+    <!-- ── Bottom pins ── -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M40,78 L45,78 L45,86 L40,86 Z
+                          M52,78 L57,78 L57,86 L52,86 Z
+                          M63,78 L68,78 L68,86 L63,86 Z" />
+
+    <!-- ── Left pins ── -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M22,40 L30,40 L30,45 L22,45 Z
+                          M22,52 L30,52 L30,57 L22,57 Z
+                          M22,63 L30,63 L30,68 L22,68 Z" />
+
+    <!-- ── Right pins ── -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M78,40 L86,40 L86,45 L78,45 Z
+                          M78,52 L86,52 L86,57 L78,57 Z
+                          M78,63 L86,63 L86,68 L78,68 Z" />
+
+    <!-- ── Chip inner window (navy) ── -->
+    <path
+        android:fillColor="#1F3F7A"
+        android:pathData="M37,37 L71,37 L71,71 L37,71 Z" />
+
+    <!-- ── Bluetooth symbol (amber, stroke only) ── -->
+    <!-- Vertical bar -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F39C12"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M50,43 L50,65" />
+    <!-- Upper wing: centre → upper-right → centre-mid -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F39C12"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M50,43 L62,50 L50,54" />
+    <!-- Lower wing: centre-mid → lower-right → centre-bottom -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F39C12"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M50,54 L62,58 L50,65" />
+
+</vector>

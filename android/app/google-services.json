@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "544337453850",
+    "project_id": "streaming-android-722e1",
+    "storage_bucket": "streaming-android-722e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544337453850:android:6419d2affdaa92bab9c2a3",
+        "android_client_info": {
+          "package_name": "com.example.QuadiKran_Connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm3_ClvmjwhOdZxUhuH4HZRzQlUQ3HK4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544337453850:android:0ba91c5136f22265b9c2a3",
+        "android_client_info": {
+          "package_name": "com.example.QuadiKran_Monitoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm3_ClvmjwhOdZxUhuH4HZRzQlUQ3HK4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544337453850:android:1eae4f7173dba09eb9c2a3",
+        "android_client_info": {
+          "package_name": "com.example.Rev1_QuadiKran_Monitoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm3_ClvmjwhOdZxUhuH4HZRzQlUQ3HK4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544337453850:android:7d2dda84ab22516ab9c2a3",
+        "android_client_info": {
+          "package_name": "com.example.Rev2_QuadiKran_Monitoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm3_ClvmjwhOdZxUhuH4HZRzQlUQ3HK4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544337453850:android:9bfcaeaf5c1c9dd7b9c2a3",
+        "android_client_info": {
+          "package_name": "com.example.Rev3_QuadiKran_Monitoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm3_ClvmjwhOdZxUhuH4HZRzQlUQ3HK4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544337453850:android:c8f45502aeaa73fbb9c2a3",
+        "android_client_info": {
+          "package_name": "com.example.Rev4_QuadiKran_Monitoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm3_ClvmjwhOdZxUhuH4HZRzQlUQ3HK4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

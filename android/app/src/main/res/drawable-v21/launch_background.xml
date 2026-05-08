@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Layer 1: Deep diagonal gradient base -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#020A1C"
+                android:centerColor="#0B2C5D"
+                android:endColor="#010516"
+                android:angle="270"
+                android:type="linear" />
+        </shape>
+    </item>
+
+    <!-- Layer 2: Centre radial blue glow -->
+    <item>
+        <shape android:shape="oval">
+            <gradient
+                android:startColor="#28063E99"
+                android:endColor="#00000000"
+                android:type="radial"
+                android:gradientRadius="40%"
+                android:centerX="0.5"
+                android:centerY="0.42" />
+        </shape>
+    </item>
+
+    <!-- Layer 3: Subtle amber bottom accent glow -->
+    <item>
+        <shape android:shape="oval">
+            <gradient
+                android:startColor="#18F39C12"
+                android:endColor="#00000000"
+                android:type="radial"
+                android:gradientRadius="28%"
+                android:centerX="0.5"
+                android:centerY="0.76" />
+        </shape>
+    </item>
+
+</layer-list>
